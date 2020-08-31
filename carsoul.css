@@ -1,0 +1,27 @@
+
+.nav-link{
+	color: white !important;
+}
+.w-100{
+	height: 600px;
+}
+.round-circle{
+	width: 6rem;
+	height: 6rem;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+ }   
+.row{
+	padding: 4rem;
+}
+.col-lg-4{
+	text-align: center;
+}
+.img-fluid{
+	height: 250px;
+	
+}
+.para-bot{
+	font-size: 2rem !important;
+}
